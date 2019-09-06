@@ -37,6 +37,6 @@ Road-networks play an important role in making an impression on cities
 <img src="https://github.com/hsuetsugu/similar-city-finder/blob/master/img/Tokyo.png" alt="top">
 
 
-# Thanks to :
-    * osmnx : great library for obtaining geo-related information
+# Acknowledgement
+* osmnx : great library for obtaining geo-related information
 
